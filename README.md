@@ -178,8 +178,8 @@ img/<metodo>/*.png      explicaciones de cada caso, escritorio y móvil (GENERAD
 
 ## 9. Privacidad y ética
 
-- La página es **pública** y muestra datos clínicos reales de 15 pacientes, sin nombres pero con edad, diagnósticos, APACHE y días de ventilación, también dentro de las figuras. Su publicación debe estar cubierta por la aprobación del comité de ética. Si no lo está, los casos se exportan con la edad en rangos (`EDAD_EN_RANGOS = True` en el repositorio principal) o se restringe el acceso.
-- El texto de consentimiento ([js/textos.js](js/textos.js)) debe coincidir con el aprobado por el comité.
+<!-- - La página es **pública** y muestra datos clínicos reales de 15 pacientes, sin nombres pero con edad, diagnósticos, APACHE y días de ventilación, también dentro de las figuras. Su publicación debe estar cubierta por la aprobación del comité de ética. Si no lo está, los casos se exportan con la edad en rangos (`EDAD_EN_RANGOS = True` en el repositorio principal) o se restringe el acceso. -->
+<!-- - El texto de consentimiento ([js/textos.js](js/textos.js)) debe coincidir con el aprobado por el comité. -->
 - Los participantes son anónimos: solo se identifican con un código aleatorio por dispositivo.
 
 ## 10. Limitaciones
