@@ -1,5 +1,7 @@
 # formulario-xai-uci
 
+**Página del formulario:** https://rosi1207.github.io/formulario-xai-uci/
+
 Formulario web del **estudio B** de la etapa 3 (evaluación basada en humanos, pasos 5 y 6) del proyecto **[XAI-Intensive-Care-Hidden-Mortality](https://github.com/rosi1207/XAI-Intensive-Care-Hidden-Mortality)**.
 
 El proyecto evalúa las explicaciones de una red neuronal que predice la **mortalidad oculta** de pacientes egresados de una Unidad de Cuidados Intensivos (UCI). Este repositorio contiene solo la página con la que médicos y estudiantes de Medicina valoran casos reales con y sin la ayuda del modelo y de sus explicaciones. El modelo, las explicaciones, las demás etapas de la evaluación y el análisis de las respuestas están en el repositorio principal.
